@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="tv_sc">Show Categories</string>
+    <string name="btn_select">Select</string>
+</resources>
